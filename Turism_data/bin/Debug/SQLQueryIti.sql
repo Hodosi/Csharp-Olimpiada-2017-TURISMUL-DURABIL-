@@ -1,0 +1,2 @@
+﻿DBCC CHECKIDENT (Itinerariu,RESEED,0);
+DBCC CHECKIDENT (Perioade,RESEED,0);

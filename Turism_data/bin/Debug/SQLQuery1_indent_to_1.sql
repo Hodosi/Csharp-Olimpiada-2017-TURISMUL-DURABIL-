@@ -1,0 +1,3 @@
+﻿DBCC CHECKIDENT (Localitati, RESEED, 1)
+DBCC CHECKIDENT (Imagini, RESEED, 1)
+DBCC CHECKIDENT (Planificari, RESEED, 1)
